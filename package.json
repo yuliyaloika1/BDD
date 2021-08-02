@@ -1,0 +1,28 @@
+{
+  "name": "bdd_cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuliyaloika1/BDD_Cucumber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuliyaloika1/BDD_Cucumber/issues"
+  },
+  "homepage": "https://github.com/yuliyaloika1/BDD_Cucumber#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "cucumber": "^7.0.0-rc.0",
+    "protractor": "^7.0.0",
+    "protractor-cucumber-framework": "^8.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
